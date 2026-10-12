@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-16a085?style=for-the-badge)](https://meheditanimx321.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://de.linkedin.com/in/meheditanim)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=OL5P1QsAAAAJ)
 [![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-Research-00629B?style=for-the-badge)](https://ieeexplore.ieee.org/document/10958650)
 
 ## About me
@@ -42,6 +43,7 @@ R. Agarwala, S. B. Sabbir, M. H. Tanim, P. Kumar · *IEEE ICPC2T 2025*.
 I am interested in **Werkstudent, internship, and research opportunities** in semiconductor technology, microsystems, photovoltaics, electronics development, hardware testing, and electrical R&D in Germany.
 
 - 🌐 **Portfolio & CV:** https://meheditanimx321.github.io/
+- 🎓 **Google Scholar:** https://scholar.google.com/citations?hl=en&user=OL5P1QsAAAAJ
 - 💼 **LinkedIn:** https://de.linkedin.com/in/meheditanim
 - ✉️ **Email:** tanimhasan.com@gmail.com
 
